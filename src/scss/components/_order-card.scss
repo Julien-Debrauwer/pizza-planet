@@ -1,0 +1,13 @@
+.order-card{
+    @include order-card($blue, $blue-light);
+    
+    &-container{
+        margin: 10rem 0;
+    }
+
+    &-heading{
+        text-align: center;
+        color: $white-pale;
+    }
+
+}

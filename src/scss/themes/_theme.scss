@@ -1,0 +1,17 @@
+// PROJECT DEFAULT PAGE STYLE
+// __________________________________________________________
+
+.pizza-tile{
+    text-decoration: none;
+    background: transparent;
+    display: block;
+    border: none;
+    padding: 5rem;
+    outline: none;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $blue-dark;
+        border-radius: 1rem;
+    }
+}

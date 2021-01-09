@@ -1,0 +1,26 @@
+// PROJECT FONTS
+// __________________________________________________________
+
+// Import fonts url here (except font face, do it in font.scss)
+// __________________________________________________________
+
+// Typographic rules here
+// __________________________________________________________
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	font-size: 1.8rem;
+    line-height: 1.5;
+    color: aquamarine;
+}
+
+.title{
+	font-family: 'Righteous', cursive;
+	color: $white-pale;
+	margin-bottom: 1.8rem;
+}
